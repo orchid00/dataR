@@ -2,7 +2,7 @@ First_Name,Mobile_Subscription,Status,Gender,Height
 Margarida,FALSE,Student,F,
 Edith,TRUE,Student,F,1.67
 Mahdi,TRUE,Student,M,1.68
-Dung,TRUE,Student,1.70
+Dung,TRUE,Student,,1.70
 Dyah,TRUE,Student,F,1.70
 Resham,TRUE,Student,M,1.71
 Joe Lindsay,TRUE,Staff,NA,1.72
