@@ -1,0 +1,43 @@
+Num,First_Name,Student,Gender,Height
+1,Manal Mohammad H,TRUE,M,1.73
+2,Olabanji,TRUE,,1.69
+3,Ankit,TRUE,M,1.68
+4,Marc,,M,1.75
+5,Shoufeng,TRUE,,1.5
+6,Shweta,TRUE,,1.52
+7,Yasien,TRUE,,1.56
+8,Kankana,TRUE,,
+9,Peina,,,
+10,Shiyi,,,
+11,Geeth Thushari,TRUE,,1.62
+12,Adam John,FALSE,M,1.73
+13,Deirdre,,F,1.69
+14,David,TRUE,M,1.68
+15,Yadav,TRUE,,1.75
+16,Kunyu,TRUE,,1.5
+17,Kyla,TRUE,F,1.52
+18,-,TRUE,,1.56
+19,Chung-Chi,,,
+20,Renee Louise,,,
+21,Lucia-Cha,TRUE,F,
+22,Phoebe,TRUE,F,1.73
+23,Kieu My,TRUE,,1.69
+24,Beau,TRUE,M,1.68
+25,Yan ,,,1.75
+26,A. T. M. Jahangir,TRUE,,1.5
+27,Alicia Anisha,TRUE,F,1.52
+28,Emi,TRUE,F,1.56
+29,Wanying,TRUE,,
+30,Ji Ryun,TRUE,,
+31,Sandra,TRUE,F,
+32,Reece,TRUE,,
+33,Man Kiu,TRUE,,
+34,Ruby,,F,1.73
+35,Anh Dao Thi,,F,1.69
+36,Mohadeseh,,,1.68
+37,Sam,TRUE,,1.75
+38,Saphira,TRUE,F,1.5
+39,Sohan,TRUE,,1.52
+40,Abram,TRUE,M,1.56
+41,Thi Thao Phuong,TRUE,,
+42,Luca,TRUE,,
